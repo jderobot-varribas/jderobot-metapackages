@@ -1,0 +1,9 @@
+Package: jderobot-dev-tools
+Version: 1.0
+Architecture: all
+Section: jderobot
+Size: 0
+Installed-Size: 0
+Depends: git, cmake, make, gcc-4.8, g++-4.8, gcc, g++, pkg-config
+Maintainer: Victor Arribas <v.arribas.urjc@gmail.com>
+Description: Metapackage that gathers all build tools required to compile JdeRobot framework.
